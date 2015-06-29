@@ -1,0 +1,8 @@
+﻿"Time of Day","Process Name","PID","Operation","Path","Result","Detail"
+"5:44:05.1366627 AM","stub.exe","11368","TCP Receive","admin-PC.bgu.ac.il:49368 -> ADMIN-PC:1604","SUCCESS","Length: 226, seqnum: 0, connid: 0"
+"5:44:05.1367676 AM","stub.exe","11368","RegQueryKey","HKU","SUCCESS","Query: HandleTags, HandleTags: 0x0"
+"5:44:05.1367874 AM","stub.exe","11368","RegOpenKey","HKCU\AppEvents\EventLabels\.Default\Test\","SUCCESS","Desired Access: All Access"
+"5:44:05.1368074 AM","stub.exe","11368","RegSetInfoKey","HKCU\AppEvents\EventLabels\.Default\Test","SUCCESS","KeySetInformationClass: KeySetHandleTagsInformation, Length: 0"
+"5:44:05.1368165 AM","stub.exe","11368","RegQueryKey","HKCU\AppEvents\EventLabels\.Default\Test","SUCCESS","Query: HandleTags, HandleTags: 0x400"
+"5:44:05.1368241 AM","stub.exe","11368","RegSetValue","HKCU\AppEvents\EventLabels\.Default\Test\key1","SUCCESS","Type: REG_EXPAND_SZ, Length: 14, Data: value1"
+"5:44:05.1368635 AM","stub.exe","11368","RegCloseKey","HKCU\AppEvents\EventLabels\.Default\Test","SUCCESS",""

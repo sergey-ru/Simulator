@@ -1,0 +1,3 @@
+﻿"Time of Day","Process Name","PID","Operation","Path","Result","Detail"
+"5:20:06.9953985 AM","stub.exe","11368","TCP Receive","admin-PC.bgu.ac.il:49368 -> ADMIN-PC:1604","SUCCESS","Length: 20, seqnum: 0, connid: 0"
+"5:20:07.0005105 AM","stub.exe","11368","TCP Send","admin-PC.bgu.ac.il:49368 -> ADMIN-PC:1604","SUCCESS","Length: 48, startime: 118300, endtime: 118300, seqnum: 0, connid: 0"
